@@ -45,9 +45,9 @@ The curriculum materials for this course are written in Python 3.6.
 <a id='team'></a>
 ## Your Instructional Team
 
-**Instructor**: Maryam Ahmed
+**Instructor**: Dr Noelia Jiménez Martínez
 
-**Assistant**: Andrew McNaught
+**Assistants**: Hasan Mahmud & Oliver Laslett
 
 ---
 
