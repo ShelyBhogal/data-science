@@ -1,6 +1,6 @@
 
 How to submit homework?
-1- Find the repo 
+1- Find the repo https://git.generalassemb.ly/DSga38/ds_ga_38/tree/master/project-submissions/ 
 2- Fork it to your account
 3- Clone it from your account to your local machine
 	Warning: Make sure that your are NOT INSIDE an already tracked directory (like the ds_ga_38)!
