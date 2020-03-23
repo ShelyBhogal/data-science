@@ -1,0 +1,17 @@
+
+How to submit homework?
+1- Find the repo 
+2- Fork it to your account
+3- Clone it from your account to your local machine
+	Warning: Make sure that your are NOT INSIDE an already tracked directory (like the ds_ga_38)!
+4- Check the remote locations (git remote -v)
+5- Change working directories into the ds_ga_38/submission-folder
+6- Create a folder called FirstName-Last-Name (e.g: Greta Thunberg) 
+7 -In this folder create a markdown file name Hello-World.md with the text 'This is my first pull request'in it.
+8 -Push it to your account
+
+We will use this repository to evaluate your project works.
+
+9- Go to your project submission repository page to check that your changes have been uploaded
+
+
