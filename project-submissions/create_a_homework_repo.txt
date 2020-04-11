@@ -6,12 +6,25 @@ How to submit homework?
 	Warning: Make sure that your are NOT INSIDE an already tracked directory (like the ds_ga_38)!
 4- Check the remote locations (git remote -v)
 5- Change working directories into the ds_ga_38/submission-folder
+
+UP TO HERE YOU ALREADY KNEW!
+
 6- Create a folder called FirstName-Last-Name (e.g: Greta Thunberg) 
-7 -In this folder create a markdown file name Hello-World.md with the text 'This is my first pull request'in it.
+7 -In this folder create a markdown file name Hello-World.md with the text 'This is my first pull request' in it.
 8 -Push it to your account
 
 We will use this repository to evaluate your project works.
 
 9- Go to your project submission repository page to check that your changes have been uploaded
+
+https://git.generalassemb.ly/DSga38/ds_ga_38/<your_user_name>/project-submissions
+
+10 -Click on New Pull request
+11 -Then, select the repository to which you want to submit the pull request (the central ds_ga_38 one), and push again 'Create pull request'
+
+11- Check if worked by going to the central repository. Click on the icon 'Pull requests' and look for yours.
+
+12- if your proposed changes are acknowledged, one of the administrators of the repo will merge your pull request into the central repo.
+
 
 
